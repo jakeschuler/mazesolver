@@ -1,1 +1,2 @@
 # mazesolver
+This program is run by the user inputing one of the maze txt files provided. After a valid maze txt file is entered, commands include:  'dumpCells', 'dumpTree', 'dumpSolution', 'dumpSize'. The dumpCells command will print out the cells as (x,y) pairs with markings at the start and end of the maze. The command dumpTree will print the tree (x,y) pairs using a pre-order traversal. The command dumpSolution will print out all steps to the solution of the path. The command dumpSize will print out the height and width of the maze given.
